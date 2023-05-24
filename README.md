@@ -3,7 +3,5 @@
 - 🌱 Estudando JavaScript.
 - 🌱 Estudante de SI.
 
-<div>
-  <a href="https://github.com/joaohuber">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaohuber&show_icons-true&theme=dracula&include_all_commits=true&count_private=true"/>
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaohuber&layout=compact&langs_count=16&theme=dracula"/>
+[![joaohuber's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaohuber)](https://github.com/joaohuber/github-readme-stats)
+
