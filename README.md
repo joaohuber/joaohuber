@@ -1,6 +1,6 @@
 ### Olá, eu sou o João Guilherme 👋
 
-- 🌱 Estudando JavaScript.
+- 🌱 Estudando Java.
 - 🌱 Estudante de SI.
 
 ![joaohuber's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaohuber&show_icons=true&theme=radical)
